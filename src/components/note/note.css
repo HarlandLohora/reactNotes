@@ -1,0 +1,16 @@
+.note{
+  background-color: white;
+  padding: 20px;
+  color:black;
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+
+span{
+  cursor: pointer;
+}

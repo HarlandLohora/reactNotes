@@ -1,0 +1,13 @@
+input{
+  padding: 20px;
+  width: 250px;
+}
+button{
+  padding: 22px;
+  color:white;
+  border:none;
+  background-color: #0f0f0f;
+}
+button:hover{
+  cursor: pointer;
+}
